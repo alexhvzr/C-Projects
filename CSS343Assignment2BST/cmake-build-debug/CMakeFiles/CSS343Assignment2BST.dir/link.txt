@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CSS343Assignment2BST.dir/main.cpp.o CMakeFiles/CSS343Assignment2BST.dir/nodedata.cpp.o CMakeFiles/CSS343Assignment2BST.dir/BinTree.cpp.o  -o CSS343Assignment2BST 

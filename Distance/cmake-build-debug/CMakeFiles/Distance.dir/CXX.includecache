@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alex/CLionProjects/Distance/Distance.cpp
+Distance.h
+/Users/alex/CLionProjects/Distance/Distance.h
+iostream
+-
+
+/Users/alex/CLionProjects/Distance/Distance.h
+iostream
+-
+

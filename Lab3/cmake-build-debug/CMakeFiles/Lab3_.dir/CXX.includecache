@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alex/CLionProjects/Lab3/Sierpinski.cpp
+Sierpinski.h
+/Users/alex/CLionProjects/Lab3/Sierpinski.h
+iostream
+-
+
+/Users/alex/CLionProjects/Lab3/Sierpinski.h
+Turtle.h
+/Users/alex/CLionProjects/Lab3/Turtle.h
+iostream
+-
+math.h
+-
+
+/Users/alex/CLionProjects/Lab3/Turtle.h
+iostream
+-
+fstream
+-
+math.h
+-
+

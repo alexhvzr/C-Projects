@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alex/CLionProjects/Lab1/AmericanWeight.cpp
+AmericanWeight.h
+/Users/alex/CLionProjects/Lab1/AmericanWeight.h
+iostream
+-
+
+/Users/alex/CLionProjects/Lab1/AmericanWeight.h
+iostream
+-
+

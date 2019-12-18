@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alex/CLionProjects/Program3/Driver.cpp
+Gosper.h
+/Users/alex/CLionProjects/Program3/Gosper.h
+iostream
+-
+
+/Users/alex/CLionProjects/Program3/Gosper.cpp
+Gosper.h
+/Users/alex/CLionProjects/Program3/Gosper.h
+iostream
+-
+
+/Users/alex/CLionProjects/Program3/Gosper.h
+Turtle.h
+/Users/alex/CLionProjects/Program3/Turtle.h
+iostream
+-
+math.h
+-
+
+/Users/alex/CLionProjects/Program3/Turtle.h
+iostream
+-
+fstream
+-
+math.h
+-
+

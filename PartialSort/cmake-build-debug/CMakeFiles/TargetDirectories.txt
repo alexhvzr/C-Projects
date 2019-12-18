@@ -1,0 +1,3 @@
+/Users/alex/CLionProjects/PartialSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/alex/CLionProjects/PartialSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alex/CLionProjects/PartialSort/cmake-build-debug/CMakeFiles/PartialSort.dir
